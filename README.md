@@ -8,8 +8,9 @@ The goal of this project is to use machine learning to solve a problem that aris
 
 3.CEDAR- LinearRegression|LogidticRegression|NeuralNetwork
 The goal of this project is to use machine learning to solve a problem that arises to find similarity between the handwritten samples of the known and the questioned writer by using linear regression, logistic regression and neural networks. Each instance in the CEDAR “AND” training data consists of set of input features for each hand- written “AND” sample.
+
 4. MNIST-USPC-LogisticRegression|NeuralNetowrks|SVM|RF|MajorityVoting
-To use machine learning to implement and evalute classifitaions algorithms -Logistic Regression, neural Networks, RFC and SVM. Also implemented Majarity Voting. 
+To use machine learning to implement and evalute classifitaions algorithms -Logistic Regression, neural Networks, RFC and SVM. Also implemented Majarity Voting.
 
 5.DeepReinforcementLearning
 To implement deep reinforcement learning algorithm- DQN (Deep Q network) and teach the agent to navigate in the grid world environment to learn the shortest path to the goal
