@@ -1,8 +1,7 @@
 # MachineLearning
 
 1. Classification: 
-The project is to compare two problem solving approaches to software development: the logic-based approach (Software 1.0) 
-and the machine learning approach (Software 2.0).
+The project is to compare two problem solving approaches to software development: the logic-based approach (Software 1.0) and the machine learning approach (Software 2.0).
 
 2.LeToR-LinearRegression
 The goal of this project is to use machine learning to solve a problem that arises in Information Retrieval, 
@@ -15,11 +14,7 @@ find similarity between the handwritten samples of the known and the questioned 
 linear regression, logistic regression and neural networks. Each instance in the CEDAR “AND” training data consists of set of input features for each hand- written “AND” sample.
 
 4. MNIST-USPC-LogisticRegression|NeuralNetowrks|SVM|RF|MajorityVoting
-To use machine learning to implement and evaluate classification algorithms.
-Train the Classifier using Logistic Regression, Neural Network, RFC and SVM algorithm.
-Provide training data and labels as input to train the classifier. RFC requires the number of trees in forest, 
-number of features to look for best split, maximum depth of the tree etc. as the input.
-SVM uses the existing labelled data to learn and then classifies the unlabelled data based on that learning
+To use machine learning to implement and evaluate classification algorithms.Train the Classifier using Logistic Regression, Neural Network, RFC and SVM algorithm.Provide training data and labels as input to train the classifier. RFC requires the number of trees in forest, number of features to look for best split, maximum depth of the tree etc. as the input.SVM uses the existing labelled data to learn and then classifies the unlabelled data based on that learning
 
 5.DeepReinforcementLearning
 To implement deep reinforcement learning algorithm- DQN (Deep Q network)
