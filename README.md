@@ -13,6 +13,6 @@ The goal of this project is to use machine learning to solve a problem that aris
 To use machine learning to implement and evaluate classification algorithms.Train the Classifier using Logistic Regression,Neural Network, RFC and SVM algorithm.Provide training data and labels as input to train the classifier. RFC requires the number of trees in forest, number of features to look for best split, maximum depth of the tree etc. as the input.SVM uses the existing labelled data to learn and then classifies the unlabelled data based on that learning
 
 5.DeepReinforcementLearning
-To implement deep reinforcement learning algorithm- DQN (Deep Q network) and teach the agent to navigate in the grid world environment to learn the shortest path to the goal.
+To implement deep reinforcement learning algorithm- DQN (Deep Q network) and teach the agent to navigate in the grid world environment to learn the shortest path to the goal
 
 
